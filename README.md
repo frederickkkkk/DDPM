@@ -23,5 +23,5 @@ step1：安装所需要的依赖---- pip install -r requirements.txt
 加载训练好的权重：运行 python -u "test.py"
 
 ### 实验结果
-![DDPM Result 1](https://raw.githubusercontent.com/frederickkkkk/DDPM/main/result_1.png )
+![DDPM Result 1](https://raw.githubusercontent.com/frederickkkkk/DDPM/main/result_1.png )<br>
 ![DDPM Result 2](https://raw.githubusercontent.com/frederickkkkk/DDPM/main/result_2.png )
