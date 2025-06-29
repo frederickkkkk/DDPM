@@ -16,8 +16,8 @@
 ### 训练
 step1：安装所需要的依赖---- pip install -r requirements.txt
 <br>step2：在main.py中设定所需的参数例如lr，batchsize等，确定是否启用attention，余弦噪声调度，以及是否采用新的预测对象和采样方式
-<br>step3:修改权重和图片的保存路径
-<br>step4:运行 python -u "main.py"
+<br>step3: 修改权重和图片的保存路径
+<br>step4: 运行 python -u "main.py"
 
 ### 测试
 加载训练好的权重：运行 python -u "test.py"
